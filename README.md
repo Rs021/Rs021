@@ -1,7 +1,7 @@
 Olá! Seja bem-vindo(a) ao meu perfil do GitHub. Sou um estudante entusiasmado de Ciências da Computação em busca constante de aprendizado e crescimento na área. Aqui você encontrará uma variedade de projetos, exercícios e recursos que refletem minha jornada acadêmica até o momento.
 
 Sobre mim
-Atualmente estou cursando Ciências da Computação em [inserir nome da universidade/instituição].
+Atualmente estou cursando Ciências da Computação na Estacio de Sá.
 Tenho interesse em áreas como algoritmos, estruturas de dados, desenvolvimento web, inteligência artificial e segurança da informação.
 Estou constantemente explorando novas tecnologias e linguagens de programação para ampliar meu conhecimento.
 
